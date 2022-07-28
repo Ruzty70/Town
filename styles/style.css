@@ -10,7 +10,7 @@ DARK BLUE: #1D3557
 .header {
         
     height: 400px;
-    background-image: url("/images/main.jpg");
+    background-image: url("./images/main.jpg");
     background-size: cover;
     color: white;
     text-shadow: 0 0 2px black;
